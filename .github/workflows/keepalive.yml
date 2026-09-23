@@ -7,7 +7,7 @@
 # GitHub delays and drops scheduled runs on busy shared runners — this has
 # missed enough 10-minute slots to let the instance sleep. Treat it as a
 # best-effort backup and keep an external pinger (cron-job.org / UptimeRobot,
-# both free) hitting https://anshmangukiya.vercel.app/api/chat every 10 min as
+# both free) hitting https://anshmangukiya.in/api/chat every 10 min as
 # the primary. See DEMOS.md.
 name: keepalive
 on:
@@ -21,4 +21,4 @@ jobs:
     steps:
       # -m 70 so curl outlives a cold start instead of hanging up at 30 s and
       # killing the wake-up request mid-boot.
-      - run: curl -sS -m 70 -o /dev/null -w "warmup HTTP %{http_code} in %{time_total}s\n" https://anshmangukiya.vercel.app/api/chat || true
+      - run: curl -sS -m 70 -o /dev/null -w "warmup HTTP %{http_code} in %{time_total}s\n" https://anshmangukiya.in/api/chat || true

@@ -1,7 +1,7 @@
 ---
 title: About Ansh Mangukiya
 type: bio
-url: https://anshmangukiya.vercel.app/#about
+url: https://anshmangukiya.in/#about
 updated: 2026-08-18
 ---
 
@@ -21,7 +21,7 @@ Ansh started computer science at Sarvajanik College of Engineering & Technology 
 
 ## Where to find Ansh online
 
-- Portfolio: https://anshmangukiya.vercel.app
+- Portfolio: https://anshmangukiya.in
 - GitHub: https://github.com/ANSH1370
 - LinkedIn: https://www.linkedin.com/in/anshmangukiya
 - Email: anshmangukiya.ai@gmail.com

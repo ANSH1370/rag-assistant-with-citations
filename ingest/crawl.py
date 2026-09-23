@@ -38,7 +38,7 @@ import httpx
 
 ROOT = Path(__file__).resolve().parents[1]
 TENANTS_DIR = ROOT / "tenants"
-UA = "Mozilla/5.0 (compatible; AnshDemoBot/1.0; +https://anshmangukiya.vercel.app)"
+UA = "Mozilla/5.0 (compatible; AnshDemoBot/1.0; +https://anshmangukiya.in)"
 DEFAULT_EXCLUDE = (
     r"/(tag|tags|category|categories|author|feed|rss|wp-json|wp-admin|wp-login|wp-content|"
     r"cart|checkout|my-account|privacy|privacy-policy|terms|cookie|sitemap|search|xmlrpc)(/|$)"

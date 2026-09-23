@@ -4,7 +4,7 @@ One prospect = one **tenant**: a folder `tenants/<slug>/` with the crawled
 corpus, a `tenant.json` config, and its own Qdrant collection `demo_<slug>`.
 The portfolio assistant is untouched (it stays on `ansh_corpus` with its own
 prompts), and tenants never see each other's data. The live page is
-`https://anshmangukiya.vercel.app/demo/<slug>`.
+`https://anshmangukiya.in/demo/<slug>`.
 
 ## Build one (≈30 min once you've done it once)
 
@@ -31,7 +31,7 @@ python -m ingest.ingest --tenant cahanlaw
 
 # 5. Commit + push. Render redeploys (its build runs `python -m ingest.ingest`, which
 #    now ingests the portfolio corpus AND every tenant — idempotent). Then open
-#    https://anshmangukiya.vercel.app/demo/cahanlaw and ask it the golden questions.
+#    https://anshmangukiya.in/demo/cahanlaw and ask it the golden questions.
 git add tenants/cahanlaw && git commit -m "demo: cahanlaw" && git push
 ```
 
@@ -45,7 +45,7 @@ guards, both required:
    it, `/demo/<slug>` returns **404** whenever the backend is asleep — which is
    exactly when a prospect clicks the link in a cold email.
 2. **Keep an external pinger running.** cron-job.org or UptimeRobot (free),
-   every 10 min, GET `https://anshmangukiya.vercel.app/api/chat`. The GitHub
+   every 10 min, GET `https://anshmangukiya.in/api/chat`. The GitHub
    Action does the same thing but GitHub drops scheduled runs under load, so it
    is the backup, not the plan.
 

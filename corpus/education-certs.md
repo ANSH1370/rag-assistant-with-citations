@@ -1,7 +1,7 @@
 ---
 title: Education and Certifications
 type: credentials
-url: https://anshmangukiya.vercel.app/#credentials
+url: https://anshmangukiya.in/#credentials
 updated: 2026-08-18
 ---
 
@@ -15,4 +15,4 @@ Ansh Mangukiya earned a Bachelor of Engineering in Computer Science from Sarvaja
 - Introduction to NLP — Infosys
 - Sequences, Time Series and Prediction — Coursera (DeepLearning.AI)
 
-Certificate links are available in the Credentials section of his portfolio: https://anshmangukiya.vercel.app/#credentials
+Certificate links are available in the Credentials section of his portfolio: https://anshmangukiya.in/#credentials

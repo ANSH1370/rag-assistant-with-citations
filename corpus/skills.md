@@ -1,7 +1,7 @@
 ---
 title: Technical Skills
 type: skills
-url: https://anshmangukiya.vercel.app/#skills
+url: https://anshmangukiya.in/#skills
 updated: 2026-08-18
 ---
 

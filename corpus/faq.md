@@ -1,13 +1,13 @@
 ---
 title: Frequently Asked Questions
 type: faq
-url: https://anshmangukiya.vercel.app/#contact
+url: https://anshmangukiya.in/#contact
 updated: 2026-09-04
 ---
 
 ## How can I contact Ansh?
 
-The fastest way is the Connect form on his portfolio (https://anshmangukiya.vercel.app/#contact) or email at anshmangukiya.ai@gmail.com. He typically replies within 24 hours. He's also on LinkedIn: https://www.linkedin.com/in/anshmangukiya
+The fastest way is the Connect form on his portfolio (https://anshmangukiya.in/#contact) or email at anshmangukiya.ai@gmail.com. He typically replies within 24 hours. He's also on LinkedIn: https://www.linkedin.com/in/anshmangukiya
 
 ## Is Ansh available for freelance work? Is he open to new opportunities?
 

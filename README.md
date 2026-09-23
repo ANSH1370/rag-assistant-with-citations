@@ -2,7 +2,7 @@
 
 A retrieval-augmented generation (RAG) assistant that answers questions about
 Ansh Mangukiya's work — with citations. Built with open-source components and
-served as the chat widget on [anshmangukiya.vercel.app](https://anshmangukiya.vercel.app).
+served as the chat widget on [anshmangukiya.in](https://anshmangukiya.in).
 
 ```
 Portfolio widget ──POST /chat──▶ FastAPI on Render

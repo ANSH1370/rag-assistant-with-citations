@@ -73,7 +73,7 @@ DEFAULT_TENANT = Tenant(
     slug=DEFAULT_SLUG,
     name="Ansh Mangukiya",
     short_name="Ansh",
-    site="https://anshmangukiya.vercel.app",
+    site="https://anshmangukiya.in",
     description="AI engineer — production RAG, LLM and agent systems",
 )
 
