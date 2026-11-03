@@ -1,0 +1,10 @@
+{"q": "Qu'est-ce que O2S et à quoi sert-il pour un cabinet de gestion de patrimoine ?", "expect_url_contains": "produit/o2s", "lang": "fr"}
+{"q": "Où sont hébergées les données et quelles mesures de sécurité Harvest applique-t-il ?", "expect_url_contains": "securite-au-coeur", "lang": "fr"}
+{"q": "Comment fonctionne la recherche avec IA dans Fidnet ?", "expect_url_contains": "fidnet", "lang": "fr"}
+{"q": "Qu'est-ce que l'authentification à deux facteurs sur Harvest Connect et pourquoi est-elle obligatoire ?", "expect_url_contains": "authentification", "lang": "fr"}
+{"q": "Quelles données financières et ESG propose l'offre Data de Harvest ?", "expect_url_contains": "/data", "lang": "fr"}
+{"q": "What is the Plateforme Wealth and who is it designed for?", "expect_url_contains": "plateforme-wealth", "lang": "en"}
+{"q": "Does Harvest provide APIs, and how is access to them secured?", "expect_url_contains": "produit/api", "lang": "en"}
+{"q": "How does the KYC solution help advisers collect and verify client documents?", "expect_url_contains": "kyc", "lang": "en"}
+{"q": "What training does the Harvest Fidroit Academy offer and in which formats?", "expect_url_contains": "academy", "lang": "en"}
+{"q": "How does O2S automate account aggregation for wealth advisers?", "expect_url_contains": "gregation", "lang": "en"}

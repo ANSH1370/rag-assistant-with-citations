@@ -1,0 +1,8 @@
+# tenant-local working files — never committed (DEMOS.md commits the tenant folder wholesale)
+raw/
+dropped/
+crawl_log.jsonl
+crawl_stdout.log
+pages.json
+pipeline_results.json
+COMMAND_LOG.md

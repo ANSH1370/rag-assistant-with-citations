@@ -1,0 +1,20 @@
+{
+  "slug": "harvest",
+  "name": "Harvest",
+  "short_name": "Harvest",
+  "site": "https://www.harvest.fr",
+  "industry": "wealth-management software (fintech)",
+  "description": "a French fintech that publishes software for wealth-management and finance professionals — O2S (patrimonial CRM), Big (wealth analysis and simulation), Fidnet (regulatory and tax knowledge base with AI search), MoneyPitch (client portal), Quantalys (fund data and portfolio construction), Plateforme Wealth (digital distribution platform for insurers and distributors), KYC, data and API offerings, and the Harvest Fidroit Academy training arm",
+  "languages": ["fr", "en"],
+  "accent": "#1f6f5f",
+  "contact": "contact@harvest.fr or +33 (0)1 53 30 28 00 (the 'Contactez-nous' link on harvest.fr)",
+  "lead_email": "",
+  "starters": [
+    "Quelles solutions Harvest propose-t-il pour les CGP ?",
+    "Qu'est-ce que la Plateforme Wealth et pour qui est-elle conçue ?",
+    "How does Harvest handle security and data protection?",
+    "What is Fidnet and how does its AI search work?"
+  ],
+  "welcome": "Bonjour — je suis l'assistant IA de Harvest. Je réponds en français ou en anglais à partir des pages publiques de harvest.fr (solutions, produits, actualités, articles d'expertise) et je cite ma source à chaque réponse. / Hi — I answer in French or English from Harvest's public website and cite the source page for every answer.",
+  "disclaimer": "Cet assistant répond uniquement à partir du contenu publié sur harvest.fr et indique sa source. Il fournit des informations générales, pas de conseil financier, juridique ou fiscal. Pour toute question commerciale ou technique, contactez contact@harvest.fr. — This assistant answers only from content published on harvest.fr and cites its sources. General information only, not financial, legal or tax advice."
+}
